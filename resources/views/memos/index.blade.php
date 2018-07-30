@@ -2,6 +2,7 @@
 
 @section('content')
       <div class="contents row">
+        <a class="waves-effect waves-light btn"><i class="material-icons right">add_box</i>add new</a>
         @foreach($memos as $memo)
           {{-- <div class="content_post">
             <ul class = "memo__list">
