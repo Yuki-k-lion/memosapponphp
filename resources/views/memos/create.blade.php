@@ -15,7 +15,6 @@
            <div class="input-field col s12">
              <textarea id="textarea2" class="materialize-textarea" name="text" data-length="120"></textarea>
              <label for="textarea2">Textarea</label>
-             <span class="character-counter" style="float: right; font-size: 12px;">0/120</span>
            </div>
          </div>
 
