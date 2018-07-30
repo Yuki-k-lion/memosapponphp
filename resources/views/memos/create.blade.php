@@ -13,8 +13,8 @@
              <label class="active" for="first_name2">First Name</label>
            </div>
            <div class="input-field col s12">
-             <textarea id="textarea1" class="materialize-textarea" name="text" data-length="120"></textarea>
-             <label for="textarea1">Textarea</label>
+             <textarea id="textarea2" class="materialize-textarea" name="text" data-length="120"></textarea>
+             <label for="textarea2">Textarea</label>
            </div>
          </div>
 
